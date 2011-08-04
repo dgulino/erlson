@@ -1,6 +1,6 @@
 {application, erlson,
  [{description, "Erlang Simple Object Notation"},
-  {vsn, git},
+  {vsn, 0.1.0},
   {modules, []},
   {applications, [kernel, stdlib]},
   {env, []}]}.
