@@ -1,4 +1,4 @@
-{application, erlson,
+{application, erlson-git,
   [
 	{description, "Erlang Simple Object Notation"},
     {vsn, git},
